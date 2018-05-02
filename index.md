@@ -24,7 +24,8 @@ Desde el siglo XVII, existen instituciones públicas que proporcionan el servici
 
 De acuerdo a investigaciones, estadísticas muestran que América Latina es la cuarta región del mundo que más dinero invierte en la industria pediátrica. Es importante recalcar que dichos estudios no consideran la proporción de dicho gasto en comparación del tamaño de la población. Regiones como Europa, que tienen menos habitantes que América Latina, gastan casi el doble en el sector pediátrico (Euromonitor, 2017).
 
-Figura 1. Estadísticas mundiales en millones de dólares invertidas en el sector pediátrico de salud.
+![Estadísticas mundiales en millones de dólares invertidas en el sector pediátrico de salud.](Picture1.png)
+<p style="text-align: center;">Figura 1. Estadísticas mundiales en millones de dólares invertidas en el sector pediátrico de salud.</p>
 
 Actualmente el sistema de salud en México se divide en tres segmentos, el primero siendo las instituciones de salud principales, el IMSS, ISSSTE, SENDA, los cuales cubren entre el 50-55% de la población (Organización Panamericana de la Salud, 2002). El segundo siendo conformada por la SSA y el programa IMSS, que son los servicios de la población no asegurada. Finalmente el tercer segmento siendo el sector privado, el cual está bastante fragmentado y que los seguros los tienen un poco menos del 2% de la población mexicana. 
 
