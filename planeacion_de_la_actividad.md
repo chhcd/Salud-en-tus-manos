@@ -64,12 +64,14 @@ La siguiente lista de materiales sintetiza los materiales necesarios para implem
 | Aprendizajes: | El nombre de los talleristas. |
 | Descripción: | El que dirige la dinámica explica que están planeando todos ir de viaje pero que solo pueden ir algunos dependiendo de lo que lleven con ellos, por lo que se tienen que presentar diciendo “Soy (nombre) y para mi viaje llevaré (un objeto)”. Entonces empieza el juego, pero los participantes no saben qué regla especial tienen los objetos para que ellos también viajen. Al final el facilitador explica que el factor decisivo para que viajen o no, es que el objeto que deben llevar comience con la misma letra de su nombre. |
 
+
 | Nombre: | Higiene en Alimentos |
 | --- | --- |
 | Materiales: | Cartulinas de presentación. |
 | Objetivos: | Se busca que los niños conozcan los efectos de no desarrollar una correcta limpieza en el ámbito alimenticio y propiciar prácticas recomendadas para incrementar los hábitos de higiene. |
 | Aprendizajes: | Los efectos en la salud producidos por una mala higiene en los alimentos. Técnicas sencillas para implementar en su día a día para incrementar la salubridad de los productos a ingerir. Recomendaciones en el descanso de la escuela para mantener la mayor higiene posible. Consejos para compartir en su casa del correcto manejo de la comida. |
 | Descripción: | Plática sobre la higiene en los alimentos utilizando las recomendaciones de la cofepris. Utilizar las cartulinas de presentación ayudarán a los niños a recordar más fácilmente cada una de las recomendaciones y pueden permanecer en el salón de clases después del taller. Preguntar a los niños sobre las prácticas en su casa y lo que hacen ellos para evitar contaminar alimentos antes de ingerirlos. |
+
 
 | Nombre: | ¡Vamos a comer! |
 | --- | --- |
@@ -78,6 +80,7 @@ La siguiente lista de materiales sintetiza los materiales necesarios para implem
 | Aprendizajes: | Estrategias de prevención de contaminación por medio de alimentos. Identificar la facilidad de hacer algo que afecte nuestra salud y buscar cambiarlo. Escuchar las sugerencias de sus compañeros. |
 | Descripción: | Pasarán un niño y una niña al frente del salón de manera voluntaria o aleatoria de ser necesario. Se colocarán de espaldas y no pueden ver lo que está realizando el otro. Se les pedirá que preparen dos lonches lo mejor posible recibiendo recomendaciones de sus compañeros. Se les dará $10 en monedas de $1 y deberán comprar los ingredientes que ellos prefieran para su sándwich.  Contarán con 5 minutos para ello. Al final se mencionan las faltas de higiene que hubo al realizarlo y premiarán las buenas prácticas. |
 
+
 | Nombre: | Importancia de la actividad física |
 | --- | --- |
 | Materiales: | No requiere materiales. |
@@ -85,12 +88,14 @@ La siguiente lista de materiales sintetiza los materiales necesarios para implem
 | Aprendizajes: | Actividades sencillas que pueden hacer en casa. Importancia del ejercicio. Recomendaciones de cómo mantener el hábito. |
 | Descripción: | En esta plática se hablará sobre la importancia que es la actividad física en la rutina diaria. Los estudiantes repetirán la serie de ejercicios simples que pueden repetir desde su propia casa y explicarles en que les ayuda cada ejercicio, ya sea en la formación del músculo, condición física y reducción de problemas futuros que les puede causar el no hacer ejercicio en su salud. |
 
+
 | Nombre: | Papa Caliente,¿aguas con el germen! |
 | --- | --- |
 | Materiales: | Balón de volleyball |
 | Objetivos: | Enseñarles que nadie quiere infectarse con gérmenes y que lo preferible es sacarles la vuelta lo más rápido posible. |
 | Aprendizajes: | Conocimiento didáctico acerca de los virus y bacterias. Importancia del lavado de las manos. Peligro de las bacterias. |
 | Descripción: | Es una dinámica que muestra de una manera tangible la manera en la que las bacterias pueden llegar a las personas, y cómo estas afectan a los individuos. Los usaran a el balon de volleyball en representación a un germen, enemigo el cual se debe de evitar a toda costa. |
+
 
 | Nombre: | Salva tu vida: Lávate las manos |
 | --- | --- |
