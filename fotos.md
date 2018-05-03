@@ -10,7 +10,7 @@
 <p align="center"><img src="Picture3.jpg"></p>
 <p style="text-align: center;">Evidencia 2. Diseñando los posters para la actividad “Higiene en Alimentos”.</p>
 
-<p align="center"><img src="Picture4.jpg"></p>
+<p align="center"><img src="Picture4.jpeg"></p>
 <p style="text-align: center;">Evidencia 3. Impresión de los posters.</p>
 
 <p align="center"><img src="Picture5.jpeg"></p>
