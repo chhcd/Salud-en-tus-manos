@@ -33,20 +33,17 @@
 <p align="center"><img src="Picture10.jpeg"></p>
 <p style="text-align: center;">Evidencia 9. Plática sobre el correcto lavado de las manos.</p>
 
-<p align="center"><img src="Picture11.jpeg"></p>
+<p align="center"><img src="Picture12.jpeg"></p>
 <p style="text-align: center;">Evidencia 10. Plática sobre la importancia del ejercicio.</p>
 
-<p align="center"><img src="Picture12.jpeg"></p>
+<p align="center"><img src="Picture13.jpeg"></p>
 <p style="text-align: center;">Evidencia 11. Actividad sobre la pirámide alimenticia.</p>
 
-<p align="center"><img src="Picture13.jpeg"></p>
+<p align="center"><img src="Picture14.jpeg"></p>
 <p style="text-align: center;">Evidencia 12. Actividad "el viaje" de integración.</p>
 
-<p align="center"><img src="Picture14.jpeg"></p>
+<p align="center"><img src="Picture15.jpeg"></p>
 <p style="text-align: center;">Evidencia 13. Plática sobre higiene en los alimentos.</p>
 
-<p align="center"><img src="Picture15.jpeg"></p>
-<p style="text-align: center;">Evidencia 14. Foto con el grupo impactado por el taller.</p>
-
 <p align="center"><img src="Picture16.jpeg"></p>
-<p style="text-align: center;">Evidencia 15. </p>
+<p style="text-align: center;">Evidencia 14. Foto con el grupo impactado por el taller.</p>
