@@ -22,11 +22,6 @@ Desde el siglo XVII, existen instituciones públicas que proporcionan el servici
 
 ## Causas
 
-De acuerdo a investigaciones, estadísticas muestran que América Latina es la cuarta región del mundo que más dinero invierte en la industria pediátrica. Es importante recalcar que dichos estudios no consideran la proporción de dicho gasto en comparación del tamaño de la población. Regiones como Europa, que tienen menos habitantes que América Latina, gastan casi el doble en el sector pediátrico (Euromonitor, 2017).
-
-<p align="center"><img src="Picture1.png"></p>
-<p style="text-align: center;">Figura 1. Estadísticas mundiales en millones de dólares invertidas en el sector pediátrico de salud.</p>
-
 Actualmente el sistema de salud en México se divide en tres segmentos, el primero siendo las instituciones de salud principales, el IMSS, ISSSTE, SENDA, los cuales cubren entre el 50-55% de la población (Organización Panamericana de la Salud, 2002). El segundo siendo conformada por la SSA y el programa IMSS, que son los servicios de la población no asegurada. Finalmente el tercer segmento siendo el sector privado, el cual está bastante fragmentado y que los seguros los tienen un poco menos del 2% de la población mexicana. 
 
 En México, la Secretaría de Salud busca integrar la salud como una base en su educación general en primaria y secundaria para que los jóvenes tengan un buen desempeño físico y mental. La Secretaría de Salud tiene un programa de acción llamado “Escuela y Salud” cuyo objetivo se plantea como; “desarrollar capacidades para ejercer mayor control sobre los determinantes causales de su salud, mejorarla, y así incrementar el aprovechamiento escolar” (SS, 2013). Su objetivo de forma más específica sería; impulsar el conocimiento sobre las bebidas saludables y una alimentación concreta, prácticas de actividad física para generar hábitos y cambios en los jóvenes, teniendo con instalaciones seguras que promuevan ejercicio sin riesgo de lesiones. Buscan también enseñarles sobre la prevención y protección de sustancias viciosas, ya sea con un consumo sensible y no de adicción. 
